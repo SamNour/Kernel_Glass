@@ -1,0 +1,35 @@
+
+'        #######################################################'
+('System calls found in the  '
+ '/home/nos1abt/syscall_hunter/repos/bsp-veth-linux/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c')
+'      ########################################################'
+
+set()
+
+'        #######################################################'
+('System calls found in the  '
+ '/home/nos1abt/syscall_hunter/repos/bsp-veth-linux/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp')
+'      ########################################################'
+
+set()
+
+'        #######################################################'
+('System calls found in the  '
+ '/home/nos1abt/syscall_hunter/repos/bsp-veth-linux/meta-vrte/recipes-kernel/e-veth/files/veth_fifo.c')
+'      ########################################################'
+
+set()
+
+'        #######################################################'
+('System calls found in the  '
+ '/home/nos1abt/syscall_hunter/repos/bsp-veth-linux/meta-vrte/recipes-kernel/e-veth/files/veth.c')
+'      ########################################################'
+
+set()
+
+'        #######################################################'
+('System calls found in the  '
+ '/home/nos1abt/syscall_hunter/repos/bsp-veth-linux/veth_fifo.c')
+'      ########################################################'
+
+set()

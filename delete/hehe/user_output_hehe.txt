@@ -1,0 +1,10 @@
+{'finit_module': {'linux/module.h'},
+ 'init_module': {'linux/module.h'},
+ 'mount': {'linux/sysinfo.h'},
+ 'poll': {'asm-generic/int-ll64.h',
+          'asm-generic/posix_types.h',
+          'linux/types.h'},
+ 'sysinfo': {'linux/kernel.h', 'linux/sysinfo.h'},
+ 'time': {'asm-generic/posix_types.h',
+          'linux/posix_types.h',
+          'linux/sysinfo.h'}}
